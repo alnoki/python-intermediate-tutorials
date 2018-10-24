@@ -1,7 +1,9 @@
 # python-intermediate-tutorials
 
-codebasics (YouTube channel) testing playlist:
-https://www.youtube.com/playlist?list=PLeo1K3hjS3utzQYDNRNluzqJqpMXx6hHu
+[codebasics (YouTube channel) pytest playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3utzQYDNRNluzqJqpMXx6hHu)
 
-reference on using unittest in Jupyter notebooks:
-https://medium.com/@vladbezden/using-python-unittest-in-ipython-or-jupyter-732448724e31
+[Using unittest in Jupyter notebooks](https://medium.com/@vladbezden/using-python-unittest-in-ipython-or-jupyter-732448724e31)
+
+[Conda user guide](https://conda.io/docs/user-guide/index.html)
+
+[Configuring Conda environment in PyCharm](https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html)

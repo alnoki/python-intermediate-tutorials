@@ -3,4 +3,4 @@
 
 from setuptools import setup, find_packages
 
-setup(name='pytest_automated_testing', packages=find_packages())
+setup(name="pytest_automated_testing", packages=find_packages())

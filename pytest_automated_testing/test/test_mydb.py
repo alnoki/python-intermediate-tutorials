@@ -1,7 +1,7 @@
 """Test for fake database"""
 # References https://www.youtube.com/watch?v=IVrGz8w0H8c&list=PLeo1K3hjS3utzQYDNRNluzqJqpMXx6hHu&index=3
 
-from mydb import MyDB
+from src.mydb import MyDB as MyDB
 import pytest
 
 

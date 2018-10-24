@@ -1,4 +1,4 @@
-import mathlib
+import src.mathlib as mathlib
 import pytest
 
 @pytest.mark.parametrize("test_input, expected_output",

@@ -1,9 +1,8 @@
 """Module for testing mathlib via pytest"""
 # References https://www.youtube.com/watch?v=l32bsaIDoWk&index=2&t=0s&list=PLeo1K3hjS3utzQYDNRNluzqJqpMXx6hHu
 
-import mathlib
+import src.mathlib as mathlib
 import pytest
-import sys
 
 
 # @pytest.mark.skipif(sys.version_info > (3, 5), reason="Python version")

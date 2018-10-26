@@ -1,0 +1,17 @@
+{
+    "editor.renderWhitespace": "all",
+    "workbench.iconTheme": "vs-minimal",
+    "telemetry.enableCrashReporter": false,
+    "editor.fontSize": 14,
+    "editor.mouseWheelZoom": true,
+    "python.pythonPath": "C:\\Users\\kahna\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.enabled": true,
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.pyTestEnabled": true,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestArgs": [
+        "--rootdir=.\\pytest_automated_testing"
+    ],
+}

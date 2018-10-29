@@ -1,0 +1,14 @@
+pytest_automated_testing/test/__pycache__/test_mathlib.cpython-37-PYTEST.pyc
+pytest_automated_testing/test/__pycache__/test_mathlib2.cpython-37-PYTEST.pyc
+pytest_automated_testing/test/__pycache__/test_mydb.cpython-37-PYTEST.pyc
+pytest_official_tutorial/1_getting_started/__pycache__/test_sysexit.cpython-37-PYTEST.pyc
+pytest_official_tutorial/1_getting_started/__pycache__/__init__.cpython-37.pyc
+pytest_official_tutorial/1_getting_started/__pycache__/test_class.cpython-37-PYTEST.pyc
+pytest_official_tutorial/1_getting_started/__pycache__/test_sample.cpython-37-PYTEST.pyc
+pytest_official_tutorial/1_getting_started/__pycache__/test_tmpdir.cpython-37-PYTEST.pyc
+pytest_official_tutorial/jupyter_notebooks/.ipynb_checkpoints/1_getting_started-checkpoint.ipynb
+pytest_official_tutorial/jupyter_notebooks/.ipynb_checkpoints/2_usage_and_invocations-checkpoint.ipynb
+pytest_official_tutorial/pytest_official_tutorial.egg-info/PKG-INFO
+pytest_official_tutorial/pytest_official_tutorial.egg-info/SOURCES.txt
+pytest_official_tutorial/pytest_official_tutorial.egg-info/dependency_links.txt
+pytest_official_tutorial/pytest_official_tutorial.egg-info/top_level.txt

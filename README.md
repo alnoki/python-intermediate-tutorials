@@ -7,3 +7,9 @@
 [Conda user guide](https://conda.io/docs/user-guide/index.html)
 
 [Configuring Conda environment in PyCharm](https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html)
+
+[pytest Good Integration Practices](https://docs.pytest.org/en/latest/goodpractices.html)
+
+[pytest.org](https://docs.pytest.org)
+
+[Full pytest documentation](https://docs.pytest.org/en/latest/contents.html)

@@ -1,17 +1,21 @@
 {
     "editor.renderWhitespace": "all",
-    "workbench.iconTheme": "vs-minimal",
+    "workbench.iconTheme": "vs-seti",
     "telemetry.enableCrashReporter": false,
     "editor.fontSize": 14,
     "editor.mouseWheelZoom": true,
-    "python.pythonPath": "C:\\Users\\kahna\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
+    "python.pythonPath": "C:\\Users\\kahna\\AppData\\Local\\Continuum\\anaconda3\\envs\\tutorials\\python.exe",
     "python.linting.pylintEnabled": false,
     "python.linting.pep8Enabled": true,
     "python.linting.enabled": true,
     "python.unitTest.unittestEnabled": false,
     "python.unitTest.pyTestEnabled": true,
     "python.unitTest.nosetestsEnabled": false,
+    // Command line arguments
     "python.unitTest.pyTestArgs": [
-        "--rootdir=.\\pytest_automated_testing"
+        // Sets root directory for test discovery (assumed)
+        "--rootdir=.\\pytest_official_tutorial",
+        // Says only to run tests in this directory
+        "pytest_official_tutorial",
     ],
 }

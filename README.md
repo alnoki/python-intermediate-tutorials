@@ -13,3 +13,5 @@
 [pytest.org](https://docs.pytest.org)
 
 [Full pytest documentation](https://docs.pytest.org/en/latest/contents.html)
+
+[VS Code python debugger tutorial](https://www.youtube.com/watch?v=w8QHoVam1-I)

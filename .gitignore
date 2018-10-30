@@ -12,3 +12,11 @@ pytest_official_tutorial/pytest_official_tutorial.egg-info/PKG-INFO
 pytest_official_tutorial/pytest_official_tutorial.egg-info/SOURCES.txt
 pytest_official_tutorial/pytest_official_tutorial.egg-info/dependency_links.txt
 pytest_official_tutorial/pytest_official_tutorial.egg-info/top_level.txt
+VS_code/.ipynb_checkpoints/python_environments-checkpoint.ipynb
+VS_code/debugger/__pycache__/python_demo.cpython-37.pyc
+pytest_official_tutorial/2_asserts/__pycache__/__init__.cpython-37.pyc
+pytest_official_tutorial/2_asserts/__pycache__/conftest.cpython-37-PYTEST.pyc
+pytest_official_tutorial/2_asserts/__pycache__/test_assert1.cpython-37-PYTEST.pyc
+pytest_official_tutorial/2_asserts/__pycache__/test_foocompare.cpython-37-PYTEST.pyc
+VS_code/.ipynb_checkpoints/debugger-checkpoint.ipynb
+pytest_official_tutorial/jupyter_notebooks/.ipynb_checkpoints/3_assertions-checkpoint.ipynb

@@ -1,7 +1,6 @@
 {
     "editor.renderWhitespace": "all",
     "workbench.iconTheme": "vs-seti",
-    "telemetry.enableCrashReporter": false,
     "editor.fontSize": 14,
     "editor.mouseWheelZoom": true,
     "python.pythonPath": "C:\\Users\\kahna\\AppData\\Local\\Continuum\\anaconda3\\envs\\tutorials\\python.exe",

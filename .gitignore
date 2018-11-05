@@ -20,3 +20,17 @@ pytest_official_tutorial/2_asserts/__pycache__/test_assert1.cpython-37-PYTEST.py
 pytest_official_tutorial/2_asserts/__pycache__/test_foocompare.cpython-37-PYTEST.pyc
 VS_code/.ipynb_checkpoints/debugger-checkpoint.ipynb
 pytest_official_tutorial/jupyter_notebooks/.ipynb_checkpoints/3_assertions-checkpoint.ipynb
+jupyter_notebooks/.ipynb_checkpoints/notebook_extensions-checkpoint.ipynb
+pytest_official_tutorial/3_fixtures/__pycache__/test_fixture_marks.cpython-37-PYTEST.pyc
+pytest_official_tutorial/3_fixtures/__pycache__/conftest.cpython-37-PYTEST.pyc
+pytest_official_tutorial/3_fixtures/__pycache__/test_anothersmtp.cpython-37-PYTEST.pyc
+pytest_official_tutorial/3_fixtures/__pycache__/test_appsetup.cpython-37-PYTEST.pyc
+pytest_official_tutorial/3_fixtures/__pycache__/test_db_transact.cpython-37-PYTEST.pyc
+pytest_official_tutorial/3_fixtures/__pycache__/test_ids.cpython-37-PYTEST.pyc
+pytest_official_tutorial/3_fixtures/__pycache__/test_instatiation_order.cpython-37-PYTEST.pyc
+pytest_official_tutorial/3_fixtures/__pycache__/test_module.cpython-37-PYTEST.pyc
+pytest_official_tutorial/3_fixtures/__pycache__/test_module2.cpython-37-PYTEST.pyc
+pytest_official_tutorial/3_fixtures/__pycache__/test_setenv.cpython-37-PYTEST.pyc
+pytest_official_tutorial/3_fixtures/__pycache__/test_smtpsimple.cpython-37-PYTEST.pyc
+pytest_official_tutorial/3_fixtures/__pycache__/test_yield2.cpython-37-PYTEST.pyc
+pytest_official_tutorial/jupyter_notebooks/.ipynb_checkpoints/4_fixtures-checkpoint.ipynb

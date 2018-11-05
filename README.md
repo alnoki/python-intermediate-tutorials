@@ -15,3 +15,5 @@
 [Full pytest documentation](https://docs.pytest.org/en/latest/contents.html)
 
 [VS Code python debugger tutorial](https://www.youtube.com/watch?v=w8QHoVam1-I)
+
+[Jupyter Notebook extensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)

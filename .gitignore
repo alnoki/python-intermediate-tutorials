@@ -34,3 +34,17 @@ pytest_official_tutorial/3_fixtures/__pycache__/test_setenv.cpython-37-PYTEST.py
 pytest_official_tutorial/3_fixtures/__pycache__/test_smtpsimple.cpython-37-PYTEST.pyc
 pytest_official_tutorial/3_fixtures/__pycache__/test_yield2.cpython-37-PYTEST.pyc
 pytest_official_tutorial/jupyter_notebooks/.ipynb_checkpoints/4_fixtures-checkpoint.ipynb
+conda_and_pycharm/.ipynb_checkpoints/1_conda_environment_setup-checkpoint.ipynb
+pytest_official_tutorial/4_marks/__pycache__/test_server.cpython-37-PYTEST.pyc
+pytest_official_tutorial/4_marks/__pycache__/conftest.cpython-37-PYTEST.pyc
+pytest_official_tutorial/4_marks/__pycache__/test_custom_marker.cpython-37-PYTEST.pyc
+pytest_official_tutorial/4_marks/__pycache__/test_mark_three_times.cpython-37-PYTEST.pyc
+pytest_official_tutorial/4_marks/__pycache__/test_module.cpython-37-PYTEST.pyc
+pytest_official_tutorial/4_marks/__pycache__/test_plat.cpython-37-PYTEST.pyc
+pytest_official_tutorial/4_marks/__pycache__/test_someenv.cpython-37-PYTEST.pyc
+pytest_official_tutorial/5_temporary_dirs_and_files/__pycache__/test_tmp_path.cpython-37-PYTEST.pyc
+pytest_official_tutorial/5_temporary_dirs_and_files/__pycache__/conftest.cpython-37-PYTEST.pyc
+pytest_official_tutorial/5_temporary_dirs_and_files/__pycache__/test_tmpdir.cpython-37-PYTEST.pyc
+pytest_official_tutorial/jupyter_notebooks/.ipynb_checkpoints/7_temporary_directories_and_files-checkpoint.ipynb
+pytest_official_tutorial/jupyter_notebooks/.ipynb_checkpoints/6_monkeypatching_and_mocking-checkpoint.ipynb
+pytest_official_tutorial/jupyter_notebooks/.ipynb_checkpoints/5_marking_attributes-checkpoint.ipynb
